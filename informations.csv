@@ -1,0 +1,317 @@
+Module,Description,Documentation
+__future__,Future statement definitions,https://docs.python.org/3/library/__future__.html#module-__future__
+__main__,"The environment where top-level code is run. Covers command-line
+interfaces, import-time behavior, and ``__name__ == '__main__'``.",https://docs.python.org/3/library/__main__.html#module-__main__
+_thread,Low-level threading API.,https://docs.python.org/3/library/_thread.html#module-_thread
+_tkinter,A binary module that contains the low-level interface to Tcl/Tk.,https://docs.python.org/3/library/tkinter.html#module-_tkinter
+abc,Abstract base classes according to :pep:`3119`.,https://docs.python.org/3/library/abc.html#module-abc
+aifc,Read and write audio files in AIFF or AIFC format.,https://docs.python.org/3/library/aifc.html#module-aifc
+argparse,Command-line option and argument parsing library.,https://docs.python.org/3/library/argparse.html#module-argparse
+array,Space efficient arrays of uniformly typed numeric values.,https://docs.python.org/3/library/array.html#module-array
+ast,Abstract Syntax Tree classes and manipulation.,https://docs.python.org/3/library/ast.html#module-ast
+asyncio,Asynchronous I/O.,https://docs.python.org/3/library/asyncio.html#module-asyncio
+atexit,Register and execute cleanup functions.,https://docs.python.org/3/library/atexit.html#module-atexit
+audioop,Manipulate raw audio data.,https://docs.python.org/3/library/audioop.html#module-audioop
+base64,"RFC 4648: Base16, Base32, Base64 Data Encodings;
+Base85 and Ascii85",https://docs.python.org/3/library/base64.html#module-base64
+bdb,Debugger framework.,https://docs.python.org/3/library/bdb.html#module-bdb
+binascii,"Tools for converting between binary and various ASCII-encoded binary
+representations.",https://docs.python.org/3/library/binascii.html#module-binascii
+bisect,Array bisection algorithms for binary searching.,https://docs.python.org/3/library/bisect.html#module-bisect
+builtins,The module that provides the built-in namespace.,https://docs.python.org/3/library/builtins.html#module-builtins
+bz2,Interfaces for bzip2 compression and decompression.,https://docs.python.org/3/library/bz2.html#module-bz2
+calendar,"Functions for working with calendars, including some emulation
+of the Unix cal program.",https://docs.python.org/3/library/calendar.html#module-calendar
+cgi,Helpers for running Python scripts via the Common Gateway Interface.,https://docs.python.org/3/library/cgi.html#module-cgi
+cgitb,Configurable traceback handler for CGI scripts.,https://docs.python.org/3/library/cgitb.html#module-cgitb
+chunk,Module to read IFF chunks.,https://docs.python.org/3/library/chunk.html#module-chunk
+cmath,Mathematical functions for complex numbers.,https://docs.python.org/3/library/cmath.html#module-cmath
+cmd,Build line-oriented command interpreters.,https://docs.python.org/3/library/cmd.html#module-cmd
+code,Facilities to implement read-eval-print loops.,https://docs.python.org/3/library/code.html#module-code
+codecs,Encode and decode data and streams.,https://docs.python.org/3/library/codecs.html#module-codecs
+codeop,Compile (possibly incomplete) Python code.,https://docs.python.org/3/library/codeop.html#module-codeop
+collections,Container datatypes,https://docs.python.org/3/library/collections.html#module-collections
+collections.abc,Abstract base classes for containers,https://docs.python.org/3/library/collections.abc.html#module-collections.abc
+colorsys,Conversion functions between RGB and other color systems.,https://docs.python.org/3/library/colorsys.html#module-colorsys
+compileall,Tools for byte-compiling all Python source files in a directory tree.,https://docs.python.org/3/library/compileall.html#module-compileall
+concurrent.futures,,https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures
+configparser,Execute computations concurrently using threads or processes.,https://docs.python.org/3/library/configparser.html#module-configparser
+contextlib,Configuration file parser.,https://docs.python.org/3/library/contextlib.html#module-contextlib
+contextvars,Utilities for with-statement contexts.,https://docs.python.org/3/library/contextvars.html#module-contextvars
+copy,Context Variables,https://docs.python.org/3/library/copy.html#module-copy
+copyreg,Shallow and deep copy operations.,https://docs.python.org/3/library/copyreg.html#module-copyreg
+cProfile,Register pickle support functions.,https://docs.python.org/3/library/profile.html#module-cProfile
+crypt,,https://docs.python.org/3/library/crypt.html#module-crypt
+csv,(Unix),https://docs.python.org/3/library/csv.html#module-csv
+ctypes,The crypt() function used to check Unix passwords.,https://docs.python.org/3/library/ctypes.html#module-ctypes
+curses,Write and read tabular data to and from delimited files.,https://docs.python.org/3/library/curses.html#module-curses
+curses.ascii,A foreign function library for Python.,https://docs.python.org/3/library/curses.ascii.html#module-curses.ascii
+curses.panel,(Unix),https://docs.python.org/3/library/curses.panel.html#module-curses.panel
+curses.textpad,"An interface to the curses library, providing portable
+terminal handling.",https://docs.python.org/3/library/curses.html#module-curses.textpad
+dataclasses,Constants and set-membership functions for ASCII characters.,https://docs.python.org/3/library/dataclasses.html#module-dataclasses
+datetime,A panel stack extension that adds depth to  curses windows.,https://docs.python.org/3/library/datetime.html#module-datetime
+dbm,Emacs-like input editing in a curses window.,https://docs.python.org/3/library/dbm.html#module-dbm
+dbm.dumb,Generate special methods on user-defined classes.,https://docs.python.org/3/library/dbm.html#module-dbm.dumb
+dbm.gnu,Basic date and time types.,https://docs.python.org/3/library/dbm.html#module-dbm.gnu
+dbm.ndbm,"Interfaces to various Unix ""database"" formats.",https://docs.python.org/3/library/dbm.html#module-dbm.ndbm
+decimal,Portable implementation of the simple DBM interface.,https://docs.python.org/3/library/decimal.html#module-decimal
+difflib,(Unix),https://docs.python.org/3/library/difflib.html#module-difflib
+dis,GNU database manager,https://docs.python.org/3/library/dis.html#module-dis
+doctest,(Unix),https://docs.python.org/3/library/doctest.html#module-doctest
+email,The New Database Manager,https://docs.python.org/3/library/email.html#module-email
+email.charset,Implementation of the General Decimal Arithmetic  Specification.,https://docs.python.org/3/library/email.charset.html#module-email.charset
+email.contentmanager,Helpers for computing differences between objects.,https://docs.python.org/3/library/email.contentmanager.html#module-email.contentmanager
+email.encoders,Disassembler for Python bytecode.,https://docs.python.org/3/library/email.encoders.html#module-email.encoders
+email.errors,Test pieces of code within docstrings.,https://docs.python.org/3/library/email.errors.html#module-email.errors
+email.generator,"Package supporting the parsing, manipulating, and generating
+email messages.",https://docs.python.org/3/library/email.generator.html#module-email.generator
+email.header,Character Sets,https://docs.python.org/3/library/email.header.html#module-email.header
+email.headerregistry,Storing and Retrieving Content from MIME Parts,https://docs.python.org/3/library/email.headerregistry.html#module-email.headerregistry
+email.iterators,Encoders for email message payloads.,https://docs.python.org/3/library/email.iterators.html#module-email.iterators
+email.message,The exception classes used by the email package.,https://docs.python.org/3/library/email.message.html#module-email.message
+email.mime,Generate flat text email messages from a message structure.,https://docs.python.org/3/library/email.mime.html#module-email.mime
+email.mime.application,Representing non-ASCII headers,https://docs.python.org/3/library/email.mime.html#module-email.mime.application
+email.mime.audio,Automatic Parsing of headers based on the field name,https://docs.python.org/3/library/email.mime.html#module-email.mime.audio
+email.mime.base,Iterate over a  message object tree.,https://docs.python.org/3/library/email.mime.html#module-email.mime.base
+email.mime.image,The base class representing email messages.,https://docs.python.org/3/library/email.mime.html#module-email.mime.image
+email.mime.message,Build MIME messages.,https://docs.python.org/3/library/email.mime.html#module-email.mime.message
+email.mime.multipart,,https://docs.python.org/3/library/email.mime.html#module-email.mime.multipart
+email.mime.nonmultipart,,https://docs.python.org/3/library/email.mime.html#module-email.mime.nonmultipart
+email.mime.text,,https://docs.python.org/3/library/email.mime.html#module-email.mime.text
+email.parser,,https://docs.python.org/3/library/email.parser.html#module-email.parser
+email.policy,,https://docs.python.org/3/library/email.policy.html#module-email.policy
+email.utils,,https://docs.python.org/3/library/email.utils.html#module-email.utils
+encodings.idna,,https://docs.python.org/3/library/codecs.html#module-encodings.idna
+encodings.mbcs,,https://docs.python.org/3/library/codecs.html#module-encodings.mbcs
+encodings.utf_8_sig,Parse flat text email messages to produce a message object structure.,https://docs.python.org/3/library/codecs.html#module-encodings.utf_8_sig
+ensurepip,Controlling the parsing and generating of messages,https://docs.python.org/3/library/ensurepip.html#module-ensurepip
+enum,Miscellaneous email package utilities.,https://docs.python.org/3/library/enum.html#module-enum
+errno,,https://docs.python.org/3/library/errno.html#module-errno
+faulthandler,Internationalized Domain Names implementation,https://docs.python.org/3/library/faulthandler.html#module-faulthandler
+fcntl,Windows ANSI codepage,https://docs.python.org/3/library/fcntl.html#module-fcntl
+filecmp,UTF-8 codec with BOM signature,https://docs.python.org/3/library/filecmp.html#module-filecmp
+fileinput,"Bootstrapping the ""pip"" installer into an existing Python
+installation or virtual environment.",https://docs.python.org/3/library/fileinput.html#module-fileinput
+fnmatch,Implementation of an enumeration class.,https://docs.python.org/3/library/fnmatch.html#module-fnmatch
+fractions,Standard errno system symbols.,https://docs.python.org/3/library/fractions.html#module-fractions
+ftplib,Dump the Python traceback.,https://docs.python.org/3/library/ftplib.html#module-ftplib
+functools,(Unix),https://docs.python.org/3/library/functools.html#module-functools
+gc,The fcntl() and ioctl() system calls.,https://docs.python.org/3/library/gc.html#module-gc
+getopt,Compare files efficiently.,https://docs.python.org/3/library/getopt.html#module-getopt
+getpass,Loop over standard input or a list of files.,https://docs.python.org/3/library/getpass.html#module-getpass
+gettext,Unix shell style filename pattern matching.,https://docs.python.org/3/library/gettext.html#module-gettext
+glob,Rational numbers.,https://docs.python.org/3/library/glob.html#module-glob
+graphlib,FTP protocol client (requires sockets).,https://docs.python.org/3/library/graphlib.html#module-graphlib
+grp,Higher-order functions and operations on callable objects.,https://docs.python.org/3/library/grp.html#module-grp
+gzip,Interface to the cycle-detecting garbage collector.,https://docs.python.org/3/library/gzip.html#module-gzip
+hashlib,"Portable parser for command line options; support both short and
+long option names.",https://docs.python.org/3/library/hashlib.html#module-hashlib
+heapq,Portable reading of passwords and retrieval of the userid.,https://docs.python.org/3/library/heapq.html#module-heapq
+hmac,Multilingual internationalization services.,https://docs.python.org/3/library/hmac.html#module-hmac
+html,Unix shell style pathname pattern expansion.,https://docs.python.org/3/library/html.html#module-html
+html.entities,Functionality to operate with graph-like structures,https://docs.python.org/3/library/html.entities.html#module-html.entities
+html.parser,(Unix),https://docs.python.org/3/library/html.parser.html#module-html.parser
+http,The group database (getgrnam() and friends).,https://docs.python.org/3/library/http.html#module-http
+http.client,Interfaces for gzip compression and decompression using file objects.,https://docs.python.org/3/library/http.client.html#module-http.client
+http.cookiejar,Secure hash and message digest algorithms.,https://docs.python.org/3/library/http.cookiejar.html#module-http.cookiejar
+http.cookies,Heap queue algorithm (a.k.a. priority queue).,https://docs.python.org/3/library/http.cookies.html#module-http.cookies
+http.server,Keyed-Hashing for Message Authentication (HMAC) implementation,https://docs.python.org/3/library/http.server.html#module-http.server
+idlelib,Helpers for manipulating HTML.,https://docs.python.org/3/library/idle.html#module-idlelib
+imaplib,Definitions of HTML general entities.,https://docs.python.org/3/library/imaplib.html#module-imaplib
+imghdr,A simple parser that can handle HTML and XHTML.,https://docs.python.org/3/library/imghdr.html#module-imghdr
+importlib,HTTP status codes and messages,https://docs.python.org/3/library/importlib.html#module-importlib
+importlib.abc,HTTP and HTTPS protocol client (requires sockets).,https://docs.python.org/3/library/importlib.html#module-importlib.abc
+importlib.machinery,Classes for automatic handling of HTTP cookies.,https://docs.python.org/3/library/importlib.html#module-importlib.machinery
+importlib.metadata,Support for HTTP state management (cookies).,https://docs.python.org/3/library/importlib.metadata.html#module-importlib.metadata
+importlib.resources,HTTP server and request handlers.,https://docs.python.org/3/library/importlib.resources.html#module-importlib.resources
+importlib.resources.abc,Implementation package for the IDLE shell/editor.,https://docs.python.org/3/library/importlib.resources.abc.html#module-importlib.resources.abc
+importlib.util,IMAP4 protocol client (requires sockets).,https://docs.python.org/3/library/importlib.html#module-importlib.util
+inspect,Determine the type of image contained in a file or byte stream.,https://docs.python.org/3/library/inspect.html#module-inspect
+io,The implementation of the import machinery.,https://docs.python.org/3/library/io.html#module-io
+ipaddress,Abstract base classes related to import,https://docs.python.org/3/library/ipaddress.html#module-ipaddress
+itertools,Importers and path hooks,https://docs.python.org/3/library/itertools.html#module-itertools
+json,Accessing package metadata,https://docs.python.org/3/library/json.html#module-json
+json.tool,"Package resource reading, opening, and access",https://docs.python.org/3/library/json.html#module-json.tool
+keyword,Abstract base classes for resources,https://docs.python.org/3/library/keyword.html#module-keyword
+lib2to3,Utility code for importers,https://docs.python.org/3/library/2to3.html#module-lib2to3
+linecache,Extract information and source code from live objects.,https://docs.python.org/3/library/linecache.html#module-linecache
+locale,Core tools for working with streams.,https://docs.python.org/3/library/locale.html#module-locale
+logging,IPv4/IPv6 manipulation library.,https://docs.python.org/3/library/logging.html#module-logging
+logging.config,Functions creating iterators for efficient looping.,https://docs.python.org/3/library/logging.config.html#module-logging.config
+logging.handlers,Encode and decode the JSON format.,https://docs.python.org/3/library/logging.handlers.html#module-logging.handlers
+lzma,A command line to validate and pretty-print JSON.,https://docs.python.org/3/library/lzma.html#module-lzma
+mailbox,Test whether a string is a keyword in Python.,https://docs.python.org/3/library/mailbox.html#module-mailbox
+mailcap,The 2to3 library,https://docs.python.org/3/library/mailcap.html#module-mailcap
+marshal,Provides random access to individual lines from text files.,https://docs.python.org/3/library/marshal.html#module-marshal
+math,Internationalization services.,https://docs.python.org/3/library/math.html#module-math
+mimetypes,Flexible event logging system for applications.,https://docs.python.org/3/library/mimetypes.html#module-mimetypes
+mmap,Configuration of the logging module.,https://docs.python.org/3/library/mmap.html#module-mmap
+modulefinder,Handlers for the logging module.,https://docs.python.org/3/library/modulefinder.html#module-modulefinder
+msilib,A Python wrapper for the liblzma compression library.,https://docs.python.org/3/library/msilib.html#module-msilib
+msvcrt,Manipulate mailboxes in various formats,https://docs.python.org/3/library/msvcrt.html#module-msvcrt
+multiprocessing,Mailcap file handling.,https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing
+multiprocessing.connection,"Convert Python objects to streams of bytes and back (with different
+constraints).",https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.connection
+multiprocessing.dummy,Mathematical functions (sin() etc.).,https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.dummy
+multiprocessing.managers,Mapping of filename extensions to MIME types.,https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.managers
+multiprocessing.pool,Interface to memory-mapped files for Unix and Windows.,https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.pool
+multiprocessing.shared_memory,Find modules used by a script.,https://docs.python.org/3/library/multiprocessing.shared_memory.html#module-multiprocessing.shared_memory
+multiprocessing.sharedctypes,(Windows),https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.sharedctypes
+netrc,"Creation of Microsoft Installer files, and CAB files.",https://docs.python.org/3/library/netrc.html#module-netrc
+nis,(Windows),https://docs.python.org/3/library/nis.html#module-nis
+nntplib,Miscellaneous useful routines from the MS VC++ runtime.,https://docs.python.org/3/library/nntplib.html#module-nntplib
+numbers,Process-based parallelism.,https://docs.python.org/3/library/numbers.html#module-numbers
+operator,API for dealing with sockets.,https://docs.python.org/3/library/operator.html#module-operator
+optparse,Dumb wrapper around threading.,https://docs.python.org/3/library/optparse.html#module-optparse
+os,Share data between process with shared objects.,https://docs.python.org/3/library/os.html#module-os
+os.path,Create pools of processes.,https://docs.python.org/3/library/os.path.html#module-os.path
+ossaudiodev,Provides shared memory for direct access across processes.,https://docs.python.org/3/library/ossaudiodev.html#module-ossaudiodev
+pathlib,Allocate ctypes objects from shared memory.,https://docs.python.org/3/library/pathlib.html#module-pathlib
+pdb,Loading of .netrc files.,https://docs.python.org/3/library/pdb.html#module-pdb
+pickle,(Unix),https://docs.python.org/3/library/pickle.html#module-pickle
+pickletools,Interface to Sun's NIS (Yellow Pages) library.,https://docs.python.org/3/library/pickletools.html#module-pickletools
+pipes,NNTP protocol client (requires sockets).,https://docs.python.org/3/library/pipes.html#module-pipes
+pkgutil,"Numeric abstract base classes (Complex, Real, Integral, etc.).",https://docs.python.org/3/library/pkgutil.html#module-pkgutil
+platform,Functions corresponding to the standard operators.,https://docs.python.org/3/library/platform.html#module-platform
+plistlib,Command-line option parsing library.,https://docs.python.org/3/library/plistlib.html#module-plistlib
+poplib,Miscellaneous operating system interfaces.,https://docs.python.org/3/library/poplib.html#module-poplib
+posix,Operations on pathnames.,https://docs.python.org/3/library/posix.html#module-posix
+pprint,"(Linux, FreeBSD)",https://docs.python.org/3/library/pprint.html#module-pprint
+profile,Access to OSS-compatible audio devices.,https://docs.python.org/3/library/profile.html#module-profile
+pstats,Object-oriented filesystem paths,https://docs.python.org/3/library/profile.html#module-pstats
+pty,The Python debugger for interactive interpreters.,https://docs.python.org/3/library/pty.html#module-pty
+pwd,Convert Python objects to streams of bytes and back.,https://docs.python.org/3/library/pwd.html#module-pwd
+py_compile,"Contains extensive comments about the pickle protocols and
+pickle-machine opcodes, as well as some useful functions.",https://docs.python.org/3/library/py_compile.html#module-py_compile
+pyclbr,(Unix),https://docs.python.org/3/library/pyclbr.html#module-pyclbr
+pydoc,A Python interface to Unix shell pipelines.,https://docs.python.org/3/library/pydoc.html#module-pydoc
+queue,Utilities for the import system.,https://docs.python.org/3/library/queue.html#module-queue
+quopri,Retrieves as much platform identifying data as possible.,https://docs.python.org/3/library/quopri.html#module-quopri
+random,Generate and parse Apple plist files.,https://docs.python.org/3/library/random.html#module-random
+re,POP3 protocol client (requires sockets).,https://docs.python.org/3/library/re.html#module-re
+readline,(Unix),https://docs.python.org/3/library/readline.html#module-readline
+reprlib,The most common POSIX system calls (normally used via module os).,https://docs.python.org/3/library/reprlib.html#module-reprlib
+resource,Data pretty printer.,https://docs.python.org/3/library/resource.html#module-resource
+rlcompleter,Python source profiler.,https://docs.python.org/3/library/rlcompleter.html#module-rlcompleter
+runpy,Statistics object for use with the profiler.,https://docs.python.org/3/library/runpy.html#module-runpy
+sched,(Unix),https://docs.python.org/3/library/sched.html#module-sched
+secrets,Pseudo-Terminal Handling for Unix.,https://docs.python.org/3/library/secrets.html#module-secrets
+select,(Unix),https://docs.python.org/3/library/select.html#module-select
+selectors,The password database (getpwnam() and friends).,https://docs.python.org/3/library/selectors.html#module-selectors
+shelve,Generate byte-code files from Python source files.,https://docs.python.org/3/library/shelve.html#module-shelve
+shlex,Supports information extraction for a Python module browser.,https://docs.python.org/3/library/shlex.html#module-shlex
+shutil,Documentation generator and online help system.,https://docs.python.org/3/library/shutil.html#module-shutil
+signal,A synchronized queue class.,https://docs.python.org/3/library/signal.html#module-signal
+site,Encode and decode files using the MIME quoted-printable encoding.,https://docs.python.org/3/library/site.html#module-site
+sitecustomize,Generate pseudo-random numbers with various common distributions.,https://docs.python.org/3/library/site.html#module-sitecustomize
+smtplib,Regular expression operations.,https://docs.python.org/3/library/smtplib.html#module-smtplib
+sndhdr,(Unix),https://docs.python.org/3/library/sndhdr.html#module-sndhdr
+socket,GNU readline support for Python.,https://docs.python.org/3/library/socket.html#module-socket
+socketserver,Alternate repr() implementation with size limits.,https://docs.python.org/3/library/socketserver.html#module-socketserver
+spwd,(Unix),https://docs.python.org/3/library/spwd.html#module-spwd
+sqlite3,An interface to provide resource usage information on the current process.,https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+ssl,"Python identifier completion, suitable for the GNU readline library.",https://docs.python.org/3/library/ssl.html#module-ssl
+stat,Locate and run Python modules without importing them first.,https://docs.python.org/3/library/stat.html#module-stat
+statistics,General purpose event scheduler.,https://docs.python.org/3/library/statistics.html#module-statistics
+string,Generate secure random numbers for managing secrets.,https://docs.python.org/3/library/string.html#module-string
+stringprep,Wait for I/O completion on multiple streams.,https://docs.python.org/3/library/stringprep.html#module-stringprep
+struct,High-level I/O multiplexing.,https://docs.python.org/3/library/struct.html#module-struct
+subprocess,Python object persistence.,https://docs.python.org/3/library/subprocess.html#module-subprocess
+sunau,Simple lexical analysis for Unix shell-like languages.,https://docs.python.org/3/library/sunau.html#module-sunau
+symtable,"High-level file operations, including copying.",https://docs.python.org/3/library/symtable.html#module-symtable
+sys,Set handlers for asynchronous events.,https://docs.python.org/3/library/sys.html#module-sys
+sys.monitoring,Module responsible for site-specific configuration.,https://docs.python.org/3/library/sys.monitoring.html#module-sys.monitoring
+sysconfig,,https://docs.python.org/3/library/sysconfig.html#module-sysconfig
+syslog,SMTP protocol client (requires sockets).,https://docs.python.org/3/library/syslog.html#module-syslog
+tabnanny,Determine type of a sound file.,https://docs.python.org/3/library/tabnanny.html#module-tabnanny
+tarfile,Low-level networking interface.,https://docs.python.org/3/library/tarfile.html#module-tarfile
+telnetlib,A framework for network servers.,https://docs.python.org/3/library/telnetlib.html#module-telnetlib
+tempfile,(Unix),https://docs.python.org/3/library/tempfile.html#module-tempfile
+termios,The shadow password database (getspnam() and friends).,https://docs.python.org/3/library/termios.html#module-termios
+test,A DB-API 2.0 implementation using SQLite 3.x.,https://docs.python.org/3/library/test.html#module-test
+test.regrtest,TLS/SSL wrapper for socket objects,https://docs.python.org/3/library/test.html#module-test.regrtest
+test.support,"Utilities for interpreting the results of os.stat(),
+os.lstat() and os.fstat().",https://docs.python.org/3/library/test.html#module-test.support
+test.support.bytecode_helper,Mathematical statistics functions,https://docs.python.org/3/library/test.html#module-test.support.bytecode_helper
+test.support.import_helper,Common string operations.,https://docs.python.org/3/library/test.html#module-test.support.import_helper
+test.support.os_helper,"String preparation, as per RFC 3453",https://docs.python.org/3/library/test.html#module-test.support.os_helper
+test.support.script_helper,Interpret bytes as packed binary data.,https://docs.python.org/3/library/test.html#module-test.support.script_helper
+test.support.socket_helper,Subprocess management.,https://docs.python.org/3/library/test.html#module-test.support.socket_helper
+test.support.threading_helper,Provide an interface to the Sun AU sound format.,https://docs.python.org/3/library/test.html#module-test.support.threading_helper
+test.support.warnings_helper,Interface to the compiler's internal symbol tables.,https://docs.python.org/3/library/test.html#module-test.support.warnings_helper
+textwrap,Access system-specific parameters and functions.,https://docs.python.org/3/library/textwrap.html#module-textwrap
+threading,Access and control event monitoring,https://docs.python.org/3/library/threading.html#module-threading
+time,Python's configuration information,https://docs.python.org/3/library/time.html#module-time
+timeit,(Unix),https://docs.python.org/3/library/timeit.html#module-timeit
+tkinter,An interface to the Unix syslog library routines.,https://docs.python.org/3/library/tkinter.html#module-tkinter
+tkinter.colorchooser,"Tool for detecting white space related problems in Python
+source files in a directory tree.",https://docs.python.org/3/library/tkinter.colorchooser.html#module-tkinter.colorchooser
+tkinter.commondialog,Read and write tar-format archive files.,https://docs.python.org/3/library/dialog.html#module-tkinter.commondialog
+tkinter.dnd,Telnet client class.,https://docs.python.org/3/library/tkinter.dnd.html#module-tkinter.dnd
+tkinter.filedialog,Generate temporary files and directories.,https://docs.python.org/3/library/dialog.html#module-tkinter.filedialog
+tkinter.font,(Unix),https://docs.python.org/3/library/tkinter.font.html#module-tkinter.font
+tkinter.messagebox,POSIX style tty control.,https://docs.python.org/3/library/tkinter.messagebox.html#module-tkinter.messagebox
+tkinter.scrolledtext,Regression tests package containing the testing suite for Python.,https://docs.python.org/3/library/tkinter.scrolledtext.html#module-tkinter.scrolledtext
+tkinter.simpledialog,Drives the regression test suite.,https://docs.python.org/3/library/dialog.html#module-tkinter.simpledialog
+tkinter.tix,Support for Python's regression test suite.,https://docs.python.org/3/library/tkinter.tix.html#module-tkinter.tix
+tkinter.ttk,Support tools for testing correct bytecode generation.,https://docs.python.org/3/library/tkinter.ttk.html#module-tkinter.ttk
+token,Support for import tests.,https://docs.python.org/3/library/token.html#module-token
+tokenize,Support for os tests.,https://docs.python.org/3/library/tokenize.html#module-tokenize
+tomllib,Support for Python's script execution tests.,https://docs.python.org/3/library/tomllib.html#module-tomllib
+trace,Support for socket tests.,https://docs.python.org/3/library/trace.html#module-trace
+traceback,Support for threading tests.,https://docs.python.org/3/library/traceback.html#module-traceback
+tracemalloc,Support for warnings tests.,https://docs.python.org/3/library/tracemalloc.html#module-tracemalloc
+tty,Text wrapping and filling,https://docs.python.org/3/library/tty.html#module-tty
+turtle,Thread-based parallelism.,https://docs.python.org/3/library/turtle.html#module-turtle
+turtledemo,Time access and conversions.,https://docs.python.org/3/library/turtle.html#module-turtledemo
+types,Measure the execution time of small code snippets.,https://docs.python.org/3/library/types.html#module-types
+typing,Interface to Tcl/Tk for graphical user interfaces,https://docs.python.org/3/library/typing.html#module-typing
+unicodedata,(Tk),https://docs.python.org/3/library/unicodedata.html#module-unicodedata
+unittest,Color choosing dialog,https://docs.python.org/3/library/unittest.html#module-unittest
+unittest.mock,(Tk),https://docs.python.org/3/library/unittest.mock.html#module-unittest.mock
+urllib,Tkinter base class for dialogs,https://docs.python.org/3/library/urllib.html#module-urllib
+urllib.error,(Tk),https://docs.python.org/3/library/urllib.error.html#module-urllib.error
+urllib.parse,Tkinter drag-and-drop interface,https://docs.python.org/3/library/urllib.parse.html#module-urllib.parse
+urllib.request,(Tk),https://docs.python.org/3/library/urllib.request.html#module-urllib.request
+urllib.response,Dialog classes for file selection,https://docs.python.org/3/library/urllib.request.html#module-urllib.response
+urllib.robotparser,(Tk),https://docs.python.org/3/library/urllib.robotparser.html#module-urllib.robotparser
+usercustomize,Tkinter font-wrapping class,https://docs.python.org/3/library/site.html#module-usercustomize
+uu,(Tk),https://docs.python.org/3/library/uu.html#module-uu
+uuid,Various types of alert dialogs,https://docs.python.org/3/library/uuid.html#module-uuid
+venv,(Tk),https://docs.python.org/3/library/venv.html#module-venv
+warnings,Text widget with a vertical scroll bar.,https://docs.python.org/3/library/warnings.html#module-warnings
+wave,(Tk),https://docs.python.org/3/library/wave.html#module-wave
+weakref,Simple dialog windows,https://docs.python.org/3/library/weakref.html#module-weakref
+webbrowser,Tk Extension Widgets for Tkinter,https://docs.python.org/3/library/webbrowser.html#module-webbrowser
+winreg,Tk themed widget set,https://docs.python.org/3/library/winreg.html#module-winreg
+winsound,Constants representing terminal nodes of the parse tree.,https://docs.python.org/3/library/winsound.html#module-winsound
+wsgiref,Lexical scanner for Python source code.,https://docs.python.org/3/library/wsgiref.html#module-wsgiref
+wsgiref.handlers,Parse TOML files.,https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
+wsgiref.headers,Trace or track Python statement execution.,https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
+wsgiref.simple_server,Print or retrieve a stack traceback.,https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
+wsgiref.types,Trace memory allocations.,https://docs.python.org/3/library/wsgiref.html#module-wsgiref.types
+wsgiref.util,(Unix),https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
+wsgiref.validate,Utility functions that perform common terminal control operations.,https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
+xdrlib,An educational framework for simple graphics applications,https://docs.python.org/3/library/xdrlib.html#module-xdrlib
+xml,A viewer for example turtle scripts,https://docs.python.org/3/library/xml.html#module-xml
+xml.dom,Names for built-in types.,https://docs.python.org/3/library/xml.dom.html#module-xml.dom
+xml.dom.minidom,Support for type hints (see :pep:`484`).,https://docs.python.org/3/library/xml.dom.minidom.html#module-xml.dom.minidom
+xml.dom.pulldom,Access the Unicode Database.,https://docs.python.org/3/library/xml.dom.pulldom.html#module-xml.dom.pulldom
+xml.etree.ElementInclude,Unit testing framework for Python.,https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementInclude
+xml.etree.ElementTree,Mock object library.,https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+xml.parsers.expat,,https://docs.python.org/3/library/pyexpat.html#module-xml.parsers.expat
+xml.parsers.expat.errors,Exception classes raised by urllib.request.,https://docs.python.org/3/library/pyexpat.html#module-xml.parsers.expat.errors
+xml.parsers.expat.model,Parse URLs into or assemble them from components.,https://docs.python.org/3/library/pyexpat.html#module-xml.parsers.expat.model
+xml.sax,Extensible library for opening URLs.,https://docs.python.org/3/library/xml.sax.html#module-xml.sax
+xml.sax.handler,Response classes used by urllib.,https://docs.python.org/3/library/xml.sax.handler.html#module-xml.sax.handler
+xml.sax.saxutils,"Load a robots.txt file and answer questions about
+fetchability of other URLs.",https://docs.python.org/3/library/xml.sax.utils.html#module-xml.sax.saxutils
+xml.sax.xmlreader,,https://docs.python.org/3/library/xml.sax.reader.html#module-xml.sax.xmlreader
+xmlrpc.client,Encode and decode files in uuencode format.,https://docs.python.org/3/library/xmlrpc.client.html#module-xmlrpc.client
+xmlrpc.server,UUID objects (universally unique identifiers) according to RFC 4122,https://docs.python.org/3/library/xmlrpc.server.html#module-xmlrpc.server
+zipapp,Creation of virtual environments.,https://docs.python.org/3/library/zipapp.html#module-zipapp
+zipfile,Issue warning messages and control their disposition.,https://docs.python.org/3/library/zipfile.html#module-zipfile
+zipimport,Provide an interface to the WAV sound format.,https://docs.python.org/3/library/zipimport.html#module-zipimport
+zlib,Support for weak references and weak dictionaries.,https://docs.python.org/3/library/zlib.html#module-zlib
+zoneinfo,Easy-to-use controller for web browsers.,https://docs.python.org/3/library/zoneinfo.html#module-zoneinfo
