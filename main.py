@@ -12,7 +12,7 @@ names = [name.text for name in doc.find_all("code", class_="xref") if name.text 
 # get description of modules
 description = [desc.text for desc in doc.find_all("em")]
 
-# get the link for mdodule's documentation
+# get the link to the documentation for each module
 links = [link.get("href") for link in doc.find_all("a") if "library" in link.get("href")]
 
 column_names = [("Module", "Description", "Documentation")]
